@@ -139,14 +139,14 @@ Open `config.json` and fill out the values:
 [donate-image]: https://i.imgur.com/R2SxfKG.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/mashwishi/PruneBot.svg?style=for-the-badge
-[contributors-url]: https://github.com/mashwishi/PruneBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mashwishi/PruneBot.svg?style=for-the-badge
-[forks-url]: https://github.com/mashwishi/PruneBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/mashwishi/PruneBot.svg?style=for-the-badge
-[stars-url]: https://github.com/mashwishi/PruneBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mashwishi/PruneBot.svg?style=for-the-badge
-[issues-url]: https://github.com/mashwishi/PruneBot/issues
-[license-shield]: https://img.shields.io/github/license/mashwishi/PruneBot.svg?style=for-the-badge
-[license-url]: https://github.com/mashwishi/PruneBot/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/mashwishi/PruneMusic.svg?style=for-the-badge
+[contributors-url]: https://github.com/mashwishi/PruneMusic/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mashwishi/PruneMusic.svg?style=for-the-badge
+[forks-url]: https://github.com/mashwishi/PruneMusic/network/members
+[stars-shield]: https://img.shields.io/github/stars/mashwishi/PruneMusic.svg?style=for-the-badge
+[stars-url]: https://github.com/mashwishi/PruneMusic/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mashwishi/PruneMusic.svg?style=for-the-badge
+[issues-url]: https://github.com/mashwishi/PruneMusic/issues
+[license-shield]: https://img.shields.io/github/license/mashwishi/PruneMusic.svg?style=for-the-badge
+[license-url]: https://github.com/mashwishi/PruneMusic/blob/master/LICENSE
 
