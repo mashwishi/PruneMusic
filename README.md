@@ -138,7 +138,7 @@ Open `config.json` and fill out the values:
 [donate-link]: https://www.paypal.me/NCMC
 [donate-image]: https://i.imgur.com/R2SxfKG.png
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!--MARKDOWN LINKS & IMAGES-->
 [contributors-shield]: https://img.shields.io/github/contributors/mashwishi/PruneMusic.svg?style=for-the-badge
 [contributors-url]: https://github.com/mashwishi/PruneMusic/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/mashwishi/PruneMusic.svg?style=for-the-badge
