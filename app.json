@@ -1,0 +1,7 @@
+{
+  "name": "PruneMusic",
+  "description": "Discord Music Bot built with discord.js",
+  "repository": "https://github.com/mashwishi/PruneMusic",
+  "logo": "https://i.imgur.com/u1CaLBh.png",
+  "keywords": ["music", "bot", "prunebot", "Mashwishi", "discord", "discordjs", "node"]
+}
