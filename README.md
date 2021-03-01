@@ -27,7 +27,7 @@
 
 <h2 align="center">What is this bot?</h2>
 
-PruneBot is a free and open source is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide), Our goal is to cover as many functionalities as possible.
+PruneMusic is a free and open source Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide), Our goal is to cover as many functionalities as possible.
 
 
 <h3>Table of Contents</h3>
