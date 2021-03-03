@@ -51,8 +51,8 @@ i18n.configure({
  * Client Events
  */
 client.on("ready", () => {
+  client.user.setActivity(`your music.`, { type: "LISTENING" });  
   console.log(`${client.user.username} ready!`);
-  client.user.setActivity(`your music.`, { type: "LISTENING" });
 });
 client.on("warn", (info) => console.log(info));
 client.on("error", console.error);
