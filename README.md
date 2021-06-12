@@ -132,7 +132,7 @@ Open `config.json` and fill out the values:
 
 [@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
 
-[support-invite]: https://discord.gg/qpkRST8MMb
+[support-invite]: https://discord.gg/WAh8eaF2Qq
 [support-image]: https://discordapp.com/api/guilds/815657126705889320/widget.png?style=banner2
 
 [donate-link]: https://www.paypal.me/NCMC
